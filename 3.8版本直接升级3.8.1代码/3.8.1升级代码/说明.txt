@@ -1,0 +1,4 @@
+这个三文件直接粘贴并覆盖原文件：
+
+FaceFusionFreevip3.8.1\facefusion。
+
